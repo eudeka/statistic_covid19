@@ -1,0 +1,23 @@
+name: covid19
+description: Statistics on the spread of corona virus cases in Indonesia.
+version: 0.0.1+1
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # TODO 01 - install dependencies / library
+  http: ^0.12.0+4
+  charts_flutter: ^0.9.0
+
+  # [optionals]
+  # https://pub.dev/packages/flutter_launcher_icons
+  # https://pub.dev/packages/flutter_launcher_name
+  # AndroidManifest.xml / Info.plist
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
