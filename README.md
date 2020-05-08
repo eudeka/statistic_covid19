@@ -33,7 +33,7 @@ void main() {}
 
 **TODO 03**
 
-Buat folder atau package baru di dalam folder `bin` dengan nama `config`, folder ini nantinya akan digunakan untuk menyimpan file konfigurasi seperti url utama untuk REST API, nama rute halaman, dan lain sebagainya.
+Buat folder atau package baru di dalam folder `lib` dengan nama `config`, folder ini nantinya akan digunakan untuk menyimpan file konfigurasi seperti url utama untuk REST API, nama rute halaman, dan lain sebagainya.
 
 Buat file dart baru pada folder `config` dengan nama `env.dart`, isi dengan kelas `Env` dan beberapa nilai konstan seperti, `baseUrl` adalah berisi url utama untuk pemanggilan API nantinya, `homeRoute` adalah nama rute untuk halaman home, dan `detailRoute` adalah nama rute untuk halaman detail. Sedangkan `ChartsType` adalah sebuah `enum` yang akan kita gunakan untuk mengganti tampilan dari bar charts ke pie charts.
 
