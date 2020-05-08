@@ -79,7 +79,7 @@ class CoronaCases {
 
 **TODO 06**
 
-Buat folder atau package baru dengan nama `network` pada folder `bin`, folder ini nantinya digunakan untuk menyimpan file dart untuk koneksi ke internet.
+Buat folder atau package baru dengan nama `network` pada folder `lib`, folder ini nantinya digunakan untuk menyimpan file dart untuk koneksi ke internet.
 
 <!-- TODO : static meaning -->
 <!-- TODO : Future meaning -->
@@ -103,7 +103,7 @@ class ApiClient {
 
 **TODO 07**
 
-Buat folder dengan nama `view` di dalam folder `bin` dan dua folder lagi di dalam folder `view` yaitu `detail` dan `home`, folder ini nantinya digunakan untuk menyimpan file dart untuk UI atau tampilan pada aplikasi.
+Buat folder dengan nama `view` di dalam folder `lib` dan dua folder lagi di dalam folder `view` yaitu `detail` dan `home`, folder ini nantinya digunakan untuk menyimpan file dart untuk UI atau tampilan pada aplikasi.
 
 Tambahkan di masing-masing folder tersebut dua file dart, `home_page.dart` dan `home_content.dart` pada folder `home`, sedangkan `detail_page.dart` dan `detail_content.dart` pada folder `detail`.
 
